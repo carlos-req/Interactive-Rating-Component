@@ -30,13 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Capture.png)
+![Preview](images/Capture.PNG)
 
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/carlos-req/Interactive-Rating-Component)
+- Live Site URL: [Live](https://carlos-req.github.io/Interactive-Rating-Component/)
 
 ## My process
 
